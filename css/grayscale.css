@@ -309,3 +309,15 @@ body {
   }
 
 /*# sourceMappingURL=grayscale.css.map */
+
+.img-photos {
+margin: 10px;
+
+width: 90%;
+}
+
+@media (min-width: 767px) {
+.img-photos {
+width: 45%;
+}
+}
